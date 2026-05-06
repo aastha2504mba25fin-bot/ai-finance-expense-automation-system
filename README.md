@@ -68,7 +68,8 @@ Google Form → Google Sheets → n8n → Email Notification → Power BI Dashbo
 
 
 ### 📧 Email Notification
-![Email](screenshots/email_output/email_notification.png)
+![Email](email_output.png.jpeg)
+
 
 ---
 
