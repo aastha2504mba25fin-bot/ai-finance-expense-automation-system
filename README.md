@@ -60,7 +60,8 @@ Google Form → Google Sheets → n8n → Email Notification → Power BI Dashbo
 
 
 ### 📊 Google Sheet Data
-![Google Sheet](screenshots/google_sheet/sheet_data.png)
+![Google Sheet](sheet_data.png.jpeg)
+
 
 ### ⚙️ n8n Workflow
 ![n8n Workflow](screenshots/n8n_architecture/workflow_diagram.png)
