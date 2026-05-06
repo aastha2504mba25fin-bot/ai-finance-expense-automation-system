@@ -56,7 +56,8 @@ Google Form → Google Sheets → n8n → Email Notification → Power BI Dashbo
 ## 📸 System Screenshots
 
 ### 📝 Google Form
-![Google Form](screenshots/google_form/form_view.png)
+![Google Form](form_view.png.jpeg)
+
 
 ### 📊 Google Sheet Data
 ![Google Sheet](screenshots/google_sheet/sheet_data.png)
